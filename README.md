@@ -1,0 +1,2 @@
+# NeoId
+Simple NewID generation
