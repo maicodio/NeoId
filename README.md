@@ -19,7 +19,7 @@ The last bytes of the Id is random data, being easier to see the difference.
 ## Install
 
 ```bash
-dotnet add package DbRewinder
+dotnet add package NeoId
 ```
 
 ## Usage
