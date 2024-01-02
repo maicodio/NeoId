@@ -9,7 +9,7 @@ I created this project because I had trouble explaining my collegaes that these 
 - 08dbb5e4-80be-c7d5-0a58-a9feac020000
 
 
-So i decided to make a more human readable sequential Guids, like these:
+So I decided to make a more human readable sequential Guids, like these:
 
 - 08dc0862-f1da-27f0-0102-03040019d6f6
 - 08dc0862-f1da-2803-0102-0304001a45fc
